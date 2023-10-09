@@ -52,4 +52,7 @@ dependencies {
     implementation ("androidx.activity:activity-compose:1.7.2")
     // SplashScreen API 12
     implementation("androidx.core:core-splashscreen:1.0.1")
+
+    //glide
+    implementation ("com.github.bumptech.glide:glide:4.16.0")
 }
